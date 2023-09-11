@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EngineeringMode>
+    <Page>
+        <Label title="label title" description="label description" />
+        <Text title="text title" description="text description" />
+    </Page>
+</EngineeringMode>
